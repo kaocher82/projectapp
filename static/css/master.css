@@ -1,0 +1,69 @@
+
+
+//* address field for admin *//
+
+#streetfrom {
+  padding-top: 5%
+}
+
+
+#locationField, #controls {
+  margin: 10px;
+  width: 100%;
+  position: relative;
+  width: 480px;
+  padding: 20px;
+  padding-top: 5%
+}
+#autocomplete {
+  padding-top: 5%
+  padding: 20px;
+  margin: 20px;
+  background-color: blue;
+  width: 60%;
+  box-sizing: border-box;
+  border: 3px solid #ccc;
+  border-radius: 4px;
+  font-size: 20px;
+  background-color: white;
+  background-image: url('searchicon.png');
+  background-position: 10px 10px; 
+  background-repeat: no-repeat;
+  border-radius: 30px;
+  padding: 12px 20px 12px 40px;
+  -webkit-transition: width 0.4s ease-in-out;
+  transition: width 0.4s ease-in-out;
+}
+
+//*
+.label {
+  
+  text-align: right;
+  font-weight: bold;
+  width: 100px;
+  color: #303030;
+  font-family: "Roboto";
+}
+#address {
+  margin-top: 10%;
+  border: 1px solid #000090;
+  background-color: #f0f9ff;
+  width: 480px;
+  padding-right: 2px;
+}
+#address td {
+  font-size: 10pt;
+}
+.field {
+  width: 99%;
+}
+.slimField {
+  width: 80px;
+}
+.wideField {
+  width: 200px;
+}
+#locationField {
+  height: 20px;
+  margin-bottom: 2px;
+}
